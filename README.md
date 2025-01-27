@@ -51,3 +51,5 @@ EDA involved the exploring of the Data to answer some questions about the such a
  from employees_england
  order by City desc, Name asc;
 ~~~
+
+### Data Visualization
