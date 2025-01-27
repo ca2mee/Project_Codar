@@ -53,3 +53,8 @@ EDA involved the exploring of the Data to answer some questions about the such a
 ~~~
 
 ### Data Visualization
+
+<img width="960" alt="P_bi image" src="https://github.com/user-attachments/assets/089f9372-4e82-4df5-84a6-4e253dfe21ea" />
+<img width="960" alt="Excel image" src="https://github.com/user-attachments/assets/bd95641f-0415-440b-9f83-9b9ebf799ca7" />
+<img width="960" alt="sql image" src="https://github.com/user-attachments/assets/790dc366-1643-48b9-a530-620b115a9276" />
+
