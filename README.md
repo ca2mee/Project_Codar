@@ -1,6 +1,10 @@
-# Project_Codar
+# Project_Codar Documentation
 
 ### Project Title : Insights into E-Commerce Sales: Analyzing Trends, Customer Behavior, and Revenue Patterns
+
+[Project Overview](#project-overview) 
+[Data Sources](#data-sources)
+[Tools Used]
 
 ### Project Overview 
 ~~~
@@ -13,7 +17,7 @@ us to tell compelling stories around our data from the insight gotten and to kno
 ~~~
 The primary source of data used here is List of Orders.csv, Order Details.csv, Sales Target.csv and Employee_England.csv, this
 is an open source data that can be freely downloaded from an open source online such as Kaggle or FRED or other data repository site
-
+~~~
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   - For Data Cleaning
@@ -24,6 +28,7 @@ is an open source data that can be freely downloaded from an open source online 
 - Power Bi for Visualization and Data Modelling
 - Python ( Numpy, Pandas, Matplotlib, Seaborn)
 - GitHub For Building  Portfolio [SignUp Here](https://github.com)
+~~~
 
 ### Data Cleaning and Preparation
 in the initial phase of the Data cleaning and preparations, we perform the following action;
@@ -55,6 +60,14 @@ EDA involved the exploring of the Data to answer some questions about the such a
 ### Data Visualization
 
 <img width="960" alt="P_bi image" src="https://github.com/user-attachments/assets/089f9372-4e82-4df5-84a6-4e253dfe21ea" />
+
+
 <img width="960" alt="Excel image" src="https://github.com/user-attachments/assets/bd95641f-0415-440b-9f83-9b9ebf799ca7" />
+
+
 <img width="960" alt="sql image" src="https://github.com/user-attachments/assets/790dc366-1643-48b9-a530-620b115a9276" />
+
+|Heading 1| Heading 2| Heading 3|
+|----------|----------|---------|
+
 
