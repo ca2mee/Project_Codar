@@ -4,7 +4,13 @@
 
 [Project Overview](#project-overview) 
 [Data Sources](#data-sources)
-[Tools Used]
+[Tools Used](#tools-used)
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Data Analysis](#data-analysis)
+[Data Visualization](#data-visualization)
+
+
 
 ### Project Overview 
 ~~~
@@ -28,9 +34,10 @@ is an open source data that can be freely downloaded from an open source online 
 - Power Bi for Visualization and Data Modelling
 - Python ( Numpy, Pandas, Matplotlib, Seaborn)
 - GitHub For Building  Portfolio [SignUp Here](https://github.com)
-~~~
+
 
 ### Data Cleaning and Preparation
+~~~
 in the initial phase of the Data cleaning and preparations, we perform the following action;
 1. Data loading and inspection
 2. Handling missing variables
@@ -67,7 +74,9 @@ EDA involved the exploring of the Data to answer some questions about the such a
 
 <img width="960" alt="sql image" src="https://github.com/user-attachments/assets/790dc366-1643-48b9-a530-620b115a9276" />
 
+
+
 |Heading 1| Heading 2| Heading 3|
 |----------|----------|---------|
-
+|Table 1|Table 2|Table 3|
 
