@@ -12,7 +12,7 @@
 
 
 
-### Project Overview 
+### Project Overview
 ~~~
 This Data Analysis Project aims to generate insights performance of the E-commerce sales project over the past years.
 By analysising the various parameters in the data recieved we seek to gather enough insight to make reasonable decisions which then enables
